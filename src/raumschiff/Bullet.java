@@ -4,7 +4,7 @@ import java.awt.Color;
 
 import javax.swing.*;
 
-//comment in github
+//comment abgelehnt
 public class Bullet extends JPanel {
 	private int x, y;
 	private int xSpeed, ySpeed;
